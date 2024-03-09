@@ -1,0 +1,2 @@
+C:\Users\ilaza\Documents\GitHub\Samples\IdentityServer\v7\BFF\React\react.client\obj\Debug\react.client.esproj.CoreCompileInputs.cache
+C:\Users\ilaza\Desktop\IDPWithReact\react.client\obj\Debug\react.client.esproj.CoreCompileInputs.cache

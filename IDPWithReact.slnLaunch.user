@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Neues Profil",
+    "Projects": [
+      {
+        "Name": "React.Bff\\React.Bff.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "react.client\\react.client.esproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "IdentityServerAspNetIdentity\\IdentityServerAspNetIdentity.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "WebClient\\WebClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
